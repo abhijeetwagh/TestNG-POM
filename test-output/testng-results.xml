@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12421" started-at="2019-04-11T10:58:07Z" finished-at="2019-04-11T10:58:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12421" started-at="2019-04-11T10:58:07Z" finished-at="2019-04-11T10:58:19Z">
+      <class name="Com.OrangeHRM.Testcases.DashboardPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Com.OrangeHRM.Testcases.DashboardPageTest@3ffc5af1]" name="SetUp" is-config="true" duration-ms="11624" started-at="2019-04-11T16:28:07Z" finished-at="2019-04-11T16:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyDashboardPageTitle()[pri:1, instance:Com.OrangeHRM.Testcases.DashboardPageTest@3ffc5af1]" name="verifyDashboardPageTitle" duration-ms="23" started-at="2019-04-11T16:28:18Z" finished-at="2019-04-11T16:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashboardPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.OrangeHRM.Testcases.DashboardPageTest@3ffc5af1]" name="tearDown" is-config="true" duration-ms="744" started-at="2019-04-11T16:28:18Z" finished-at="2019-04-11T16:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.OrangeHRM.Testcases.DashboardPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
